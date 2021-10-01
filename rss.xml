@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Oct 2021 16:07:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[lightmeter 139$ HEDECO]]></title>
+            <guid>5a3361d1693e4973ba3e7bafa4ee0a46</guid>
+            <pubDate>Wed, 15 Sep 2021 10:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[<hr />
+<ul>
+<li><a title="https://hedeco.myshopify.com/collections/all" href="https://hedeco.myshopify.com/collections/all">Katalog</a></li>
+</ul>
+<hr />
+<hr />
+<h2 id="featured-collection">Featured collection</h2>
+<p><a title="Lime One" href="https://hedeco.myshopify.com/products/test1"></a></p>
+<p><a title="https://hedeco.myshopify.com/products/test1" href="https://hedeco.myshopify.com/products/test1">Lime One</a></p>
+<p>Regular price €139,00</p>
+<p><a title="Lime One silver with accessories" href="https://hedeco.myshopify.com/products/lime-one-silver-with-accessories"></a></p>
+<p><a title="https://hedeco.myshopify.com/products/lime-one-silver-with-accessories" href="https://hedeco.myshopify.com/products/lime-one-silver-with-accessories">Lime One silver with accessories</a></p>
+<p>Regular price €159,00</p>
+<p><a title="Lime One black with accessories" href="https://hedeco.myshopify.com/products/lime-one-black-with-accessories"></a></p>
+<p><a title="https://hedeco.myshopify.com/products/lime-one-black-with-accessories" href="https://hedeco.myshopify.com/products/lime-one-black-with-accessories">Lime One black with accessories</a></p>
+<p>Regular price €159,00 — <strong>Sold Out</strong></p>
+<hr />
+<h2 id="hedeco-lime-one">HEDECO Lime One</h2>
+<p>more information on the main <a title="https://hedeco.de" href="https://hedeco.de/">website</a></p>
+<hr />
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
